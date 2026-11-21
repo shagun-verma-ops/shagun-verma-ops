@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Shagun! 👋
 
-<!--
-**shagun-verma-ops/shagun-verma-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Cloud & DevOps Engineer ☁️
 
-Here are some ideas to get you started:
+I'm a self-driven learner passionate about Cloud Computing, Linux, Automation, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building my technical foundation and gaining hands-on experience with AWS and DevOps tools.
+
+### 🚀 Currently Learning
+
+- ☁️ AWS Cloud Services
+- 🐍 Python & Boto3
+- 🐧 Linux & Shell Scripting
+- 🔧 Git & GitHub
+- 🌐 Networking
+- 🤖 AI Integration in Cloud Workflows
+
+### 🛠️ Technologies & Tools
+
+- **Cloud:** AWS (EC2, S3, IAM, VPC, CloudFront)
+- **Operating System:** Linux (Ubuntu)
+- **Scripting:** Bash, Python
+- **Version Control:** Git & GitHub
+- **AWS Automation:** AWS CLI, Boto3
+
+### 🎯 My Goals
+
+- Build real-world AWS projects.
+- Learn Infrastructure as Code using Terraform.
+- Understand CI/CD pipelines.
+- Gain practical experience in Cloud & DevOps.
+- Continuously improve through hands-on learning.
+
+### 📚 Learning Philosophy
+
+Slow and steady. Learning by doing, experimenting, making mistakes, and improving every day.
+
+---
+
+⭐ Thanks for visiting my profile!
